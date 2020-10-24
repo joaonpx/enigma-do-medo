@@ -8,7 +8,7 @@
 
 ## 💻 Sobre
 
-**[Enigma do Medo](https://www.catarse.me/ordem)** é um jogo de exploração, enigmas e sobrevivência do universo do RPG criado por **Rafael Lange (Cellbit)**.
+**[Enigma do Medo](https://twitter.com/ordemparanormal)** é um jogo de exploração, enigmas e sobrevivência do universo do RPG criado por **[Rafael Lange (Cellbit)](https://twitter.com/cellbit)**.
 
 Veja mais e apoie o jogo em: [Catarse - Ordem Paranormal: Enigma do Medo](https://www.catarse.me/ordem)
 
