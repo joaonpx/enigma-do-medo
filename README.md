@@ -1,9 +1,13 @@
+<p align="center">
+      <img src=".github/header.jpg" width="50%" alt="Header"/>
+</p>
+
 <h1 align="center">
     <strong>Ordem Paranormal: Enigma do Medo</strong>
 </h1>
 
 <p align="center">
-      <img src=".github/banner.gif" width="10%" alt="Banner"/>
+      <img src=".github/banner.gif" width="50%" alt="Banner"/>
 </p>
 
 ## 💻 Sobre
