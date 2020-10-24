@@ -6,9 +6,9 @@
       <img src=".github/header.jpg" width="100%" alt="Header"/>
 </p>
 
-## 🔖 Layout
+## 🔖 Projeto
 
-Você pode visualizar o projeto funcionando através do link abaixo:
+Você pode visualizar o projeto em funcionamento através do link abaixo:
 
 - **[Ordem Paranormal: Enigma do Medo](https://enigma-do-medo.glitch.me/)**
 
@@ -20,7 +20,7 @@ Veja mais e apoie o jogo em: **[Catarse - Ordem Paranormal: Enigma do Medo](http
 
 ## 🚀 Tecnologias
 
-Site desenvolvido utilizando as seguintes tecnologias:
+Tecnologias usadas para o desenvolvimento do projeto:
 
 - HTML
 - CSS
