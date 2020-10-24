@@ -1,0 +1,161 @@
+#page-landing {
+  background: url("../images/background.jpg") no-repeat;
+  background-size: 250vh;
+  background-position-x: center;
+  text-align: center;
+
+  min-height: 100vh;
+
+  display: flex;
+}
+
+#container {
+  margin: auto; /* transformando em responsivo */
+  width: min(90%, 112rem);
+}
+
+header h1{
+  margin-top: 5.5rem;
+}
+
+header h2{
+  font-weight: 600;
+  font-size: 25px;
+
+  line-height: 1.5;
+}
+
+.info {
+  padding-top: 1.5rem;
+}
+
+.info h2 {
+  line-height: 1.5;
+}
+
+.info p {
+  line-height: 1.2;
+}
+
+.info h3 {
+  padding-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.support {
+  padding-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.support h3 {
+  font-weight: 800;
+
+  margin-bottom: 1rem;
+}
+
+.support a {
+  width: 20rem;
+  height: 4rem;
+
+  font-weight: 600;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border: 1px solid white;
+  border-radius: 2rem;
+
+  margin: auto;
+
+  padding: 0.5rem;
+
+  transition: background 200ms;
+
+}
+
+.support span {
+  padding-right: 0.5rem;
+}
+
+.support a:hover {
+  background-color: white;
+  color: #123f60;
+}
+
+/* ajustando tamanho do iframe no mobile */
+@media (max-width: 590px) {
+  iframe {
+    width: auto;
+    height: auto;
+  }
+}
+
+/* desktop version */
+@media (min-width: 769px) {
+  header h1 {
+    font-size: 5rem;
+    margin-top: 1rem;
+  }
+  header h2{
+    font-weight: 600;
+    font-size: 25px;
+  
+    line-height: 1.5;
+  }
+  .info {
+    padding-top: 2.5rem;
+  }
+  
+  .info h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+  }
+  
+  .info p {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+  .info h3 {
+    font-size: 2.5rem;
+    padding-top: 3.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .support {
+    padding-top: 2.5rem;
+  }
+  
+  .support h3 {
+    font-size: 2.5rem;
+    font-weight: 800;
+  
+    margin-bottom: 1rem;
+  }
+  
+  .support a {
+    width: 25rem;
+    height: 5rem;
+  
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+    border: 1px solid white;
+    border-radius: 2rem;
+  
+    margin: auto;
+  
+    padding: 0.5rem;
+  
+    transition: background 200ms;
+  
+  }
+}
