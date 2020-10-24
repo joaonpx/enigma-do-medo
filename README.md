@@ -3,12 +3,12 @@
 </h1>
 
 <p align="center">
-      <img src=".github/banner.gif" width="10%" alt="Banner"/>
+      <img src=".github/banner.gif" width="100%" alt="Banner"/>
 </p>
 
 ## 💻 Sobre
 
-**[Enigma do Medo]**(https://www.catarse.me/ordem) é um jogo de exploração, enigmas e sobrevivência do universo do RPG criado por **Rafael Lange (Cellbit)**.
+**[Enigma do Medo](https://www.catarse.me/ordem)** é um jogo de exploração, enigmas e sobrevivência do universo do RPG criado por **Rafael Lange (Cellbit)**.
 
 Veja mais e apoie o jogo em: [Ordem Paranormal: Enigma do Medo - Catarse](https://www.catarse.me/ordem)
 
