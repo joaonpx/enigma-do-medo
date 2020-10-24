@@ -1,5 +1,5 @@
 <p align="center">
-      <img src=".github/header.jpg" width="50%" alt="Header"/>
+      <img src=".github/header.jpg" width="100%" alt="Header"/>
 </p>
 
 <h1 align="center">
@@ -7,11 +7,7 @@
 </h1>
 
 <p align="center">
-<<<<<<< HEAD
-      <img src=".github/banner.gif" width="50%" alt="Banner"/>
-=======
-      <img src=".github/banner.gif" width="100%" alt="Banner"/>
->>>>>>> 00a2629acda422934e28401cdd26216b35aaecc5
+      <img src=".github/banner.gif" width="80%" alt="Banner"/>
 </p>
 
 ## 💻 Sobre
